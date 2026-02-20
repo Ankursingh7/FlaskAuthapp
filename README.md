@@ -15,7 +15,7 @@ hashing.
 
 The application is deployed on Render:
 
-🔗 https://auth-app-lll4.onrender.com/
+🔗 https://flaskauthapp-nz2u.onrender.com
 
 ------------------------------------------------------------------------
 
@@ -126,5 +126,5 @@ variables - Use a production database like PostgreSQL - Enable HTTPS
 
 ## 📜 Author
 
-Praveen Kumar Sharma
+Ankur Singh
 Created as part of an academic assignment.
